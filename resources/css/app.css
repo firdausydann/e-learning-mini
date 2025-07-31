@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #f9fafb;
+}
+
+.bg-gradient-blue {
+    background: linear-gradient(135deg, #4b6cb7 0%, #182848 100%);
+}
+
+.hover-scale {
+    transition: transform 0.3s ease;
+}
+
+.hover-scale:hover {
+    transform: translateY(-5px);
+}
