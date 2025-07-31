@@ -81,11 +81,9 @@ impor ke mysql dengan nama database e-learning-mini.sql
 
 
 # Screenshoot 
-Halaman Dashboard
-![Dashboard](public/screenshots/dashboard.png)
+Halaman Dashboard ![Dashboard](screenshots/dashboard.png)
 
-Halaman Materi
-![Materi](public/screenshots/materi.png)
+Halaman Materi ![Materi](screenshots/materi.png)
 
 
 
@@ -99,4 +97,4 @@ Halaman Materi
 Proyek ini dibuat untuk keperluan Ujian Akhir Semester Mata Kuliah Pemrograman Framework.  
 Semua kode dan konten hanya untuk tujuan akademik.
 
-© 2025 — E-Learning Mini by Mas. All rights reserved.
+© 2025 — E-Learning Mini by Firdaus Wildan Maulana. All rights reserved.
